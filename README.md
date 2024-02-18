@@ -1,0 +1,3 @@
+A password generator based on simple gui with a novelty added of text over speech ...
+also create a txt file extension for the passwords generated 
+voice is given to speak passwords and on initalizing commands
